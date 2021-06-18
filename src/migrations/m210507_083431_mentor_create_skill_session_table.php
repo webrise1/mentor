@@ -1,7 +1,7 @@
 <?php
 
 use yii\db\Migration;
-
+use webrise1\packagemanager\RBAC;
 /**
  * Class m210507_083530_mentor_create_skill_session_table
  */
